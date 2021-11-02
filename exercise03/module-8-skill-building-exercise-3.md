@@ -1,4 +1,4 @@
-# Module 6 - Skill Building Exercise No. 3
+# Module 8 - Skill Building Exercise No. 3
 
 ## Revisiting Area and Volume Calculations with Functions
 

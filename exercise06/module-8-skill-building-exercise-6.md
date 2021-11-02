@@ -1,4 +1,4 @@
-# Module 6 - Skill Building Exercise No. 6
+# Module 8 - Skill Building Exercise No. 6
 
 ## Revisiting Calculating a Grade with Functions 
 

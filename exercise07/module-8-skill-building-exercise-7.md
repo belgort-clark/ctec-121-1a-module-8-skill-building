@@ -1,4 +1,4 @@
-# Module 6 - Skill Building Exercise No. 7
+# Module 8 - Skill Building Exercise No. 7
 
 ## A Function that Squares a List of Numbers
 

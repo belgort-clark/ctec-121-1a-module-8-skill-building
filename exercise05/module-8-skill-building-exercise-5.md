@@ -1,4 +1,4 @@
-# Module 6 - Skill Building Exercise No. 5
+# Module 8 - Skill Building Exercise No. 5
 
 ## Revisiting How Much is that Pizza
 

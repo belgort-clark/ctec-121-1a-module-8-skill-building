@@ -1,4 +1,4 @@
-# Module 6 - Skill Building Exercise No. 6 Solution
+# Module 8 - Skill Building Exercise No. 6 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 

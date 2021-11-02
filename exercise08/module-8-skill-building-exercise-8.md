@@ -1,4 +1,4 @@
-# Module 6 - Skill Building Exercise No. 8
+# Module 8 - Skill Building Exercise No. 8
 
 ## Double Your Money
 

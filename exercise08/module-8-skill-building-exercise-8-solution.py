@@ -1,4 +1,4 @@
-# Module 6 - Skill Building Exercise No. 8 Solution
+# Module 8 - Skill Building Exercise No. 8 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 
@@ -7,7 +7,7 @@ def main():
 
     apr = eval(input("What is the annual interest rate? "))
     principal = 1
-    years = 0 
+    years = 0
     while principal < 2:
         principal = principal * (1 + apr)
         years = years + 1

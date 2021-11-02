@@ -1,4 +1,4 @@
-# Module 6 - Skill Building Exercise No. 1 Solution
+# Module 8 - Skill Building Exercise No. 1 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 
@@ -22,8 +22,8 @@ def witha(noise):
     noisecomma = noise + ","
     noise2 = noisecomma + " "+noise
     print("With a", noise2, "here and a", noise2, "there.")
-    print("Here a", noisecomma, "there a", noisecomma, \
-        "everywhere a", noise2+".")
+    print("Here a", noisecomma, "there a", noisecomma,
+          "everywhere a", noise2+".")
 
 
 def verse(animal, noise):
@@ -41,9 +41,9 @@ def main():
     # See Python.org documentation for tuples
     # Tuples are like lists, but are immutable meaning their values can't change
     # Note that iterating through this gives you two variables at a time
-    for a,n in [("cow","moo"), ("pig", "oink"), ("hedgehog", "Dinsdale")]:
+    for a, n in [("cow", "moo"), ("pig", "oink"), ("hedgehog", "Dinsdale")]:
         # call the verse function with a and n as arguments
-        verse(a,n)
+        verse(a, n)
         print()
 
 

@@ -1,8 +1,9 @@
-# Module 6 - Skill Building Exercise No. 5 Solution
+# Module 8 - Skill Building Exercise No. 5 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 
 import math
+
 
 def costPer(d, price):
     return float(price) / area(d)
@@ -18,7 +19,7 @@ def main():
     diam = eval(input("Enter the diameter of the pizza: "))
     cost = eval(input("Enter the price of the pizza: "))
 
-    print("\nThe pizza costs %0.4f per square unit." % (costPer(diam,cost)))
+    print("\nThe pizza costs %0.4f per square unit." % (costPer(diam, cost)))
 
 
 main()

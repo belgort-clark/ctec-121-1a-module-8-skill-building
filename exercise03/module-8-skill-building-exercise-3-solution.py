@@ -1,9 +1,10 @@
-# Module 6 - Skill Building Exercise No. 3 Solution
+# Module 8 - Skill Building Exercise No. 3 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 
 # import math library
 import math
+
 
 def sphereArea(radius):
     return 4 * math.pi * radius * radius

@@ -1,4 +1,4 @@
-# Module 6 - Skill Building Exercise No. 2
+# Module 8 - Skill Building Exercise No. 2
 
 ## The Ants Go Marching
 

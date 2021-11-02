@@ -1,4 +1,4 @@
-# Module 6 - Skill Building Exercise No. 2 Solution
+# Module 8 - Skill Building Exercise No. 2 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 
@@ -14,7 +14,7 @@ def verse(number, action):
 
 def march(number):
     # note how the statement below returns a string back to the calling statement
-    return "The ants go marching %s by %s," % (number,number)
+    return "The ants go marching %s by %s," % (number, number)
 
 
 def hurrah():
@@ -37,21 +37,21 @@ def refrain():
 
 def main():
     # a list of tuples
-    actions = [ ("one", "suck his thumb"),
-                ("two", "tie his shoe"),
-                ("three", "climb a tree"),
-                ("four", "shut the door"),
-                ("five", "take a dive"),
-                ("six", "pick up sticks"),
-                ("seven", "talk to Kevin"),
-                ("eight", "jump the gate"),
-                ("nine", "swing on a vine"),
-                ("ten", "say 'The End'") ]
+    actions = [("one", "suck his thumb"),
+               ("two", "tie his shoe"),
+               ("three", "climb a tree"),
+               ("four", "shut the door"),
+               ("five", "take a dive"),
+               ("six", "pick up sticks"),
+               ("seven", "talk to Kevin"),
+               ("eight", "jump the gate"),
+               ("nine", "swing on a vine"),
+               ("ten", "say 'The End'")]
 
     # iterate through the actions list of tuples
-    for n,a in actions:
+    for n, a in actions:
         # call the verse() function with n and a as arguments
-        verse(n,a)
+        verse(n, a)
         print()
     # press Enter key to Quit
     input("Press <Enter> to Quit")

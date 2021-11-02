@@ -1,4 +1,4 @@
-# Module 6 - Skill Building Exercise No. 4
+# Module 8 - Skill Building Exercise No. 4
 
 ## Functions that Sum Natural Numbers
 

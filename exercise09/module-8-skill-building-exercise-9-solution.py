@@ -1,8 +1,9 @@
-# Module 6 - Skill Building Exercise No. 9 Solution
+# Module 8 - Skill Building Exercise No. 9 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 
 import math
+
 
 def isPrime(n):
     # if the number is 2 return True as it's a prime number
